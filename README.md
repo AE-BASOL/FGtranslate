@@ -4,8 +4,6 @@ FGtranslate is a simple dictionary app that uses the DictionaryAPI to provide wo
 
 ![image](https://github.com/user-attachments/assets/6181fd56-7e6c-4e5e-8948-2be2acf0de50)
 
-It is sticky and easy to use! Unlike Google Translate
-
 ## Features
 
 - Enter a word to get its definition.
@@ -50,7 +48,3 @@ The essence of the quest we seek, the answers that our souls do speak?
 Would that we could turn the page, to wisdom of a bygone age. 
 Where knowledge bloomed in written word, not dictated by the Google herd. 
 Yet here we stand, in twenty-four, and ask, what future lies in store?
-
-## Credits
-
-FGtranslate is created by AEBASOL.
