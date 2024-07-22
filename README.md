@@ -2,6 +2,10 @@
 
 FGtranslate is a simple dictionary app that uses the DictionaryAPI to provide word definitions.
 
+![image](https://github.com/user-attachments/assets/6181fd56-7e6c-4e5e-8948-2be2acf0de50)
+
+It is sticky and easy to use! Unlike Google Translate
+
 ## Features
 
 - Enter a word to get its definition.
